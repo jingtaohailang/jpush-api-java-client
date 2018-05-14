@@ -4,7 +4,7 @@
 
 # JPush API Java Library
 
-## 概述
+## 概述 
 
 这是 JPush REST API 的 Java 版本封装开发包，是由极光推送官方提供的，一般支持最新的 API 功能。
 
